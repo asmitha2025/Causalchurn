@@ -1,7 +1,18 @@
+---
+title: Causalchurn AI
+emoji: 🧠
+colorFrom: indigo
+colorTo: gray
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # 🚀 CausalChurn AI — Prescriptive Retention Intelligence Platform
 
 > **BSc Data Science — Final Portfolio Project**  
 > *Targeting High-Growth Product-Based CRM and Fintech Platforms (Zoho, Freshworks, Salesforce, Razorpay, PhonePe)*
+
 
 ---
 
